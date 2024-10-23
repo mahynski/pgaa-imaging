@@ -1,0 +1,264 @@
+2024-08-29 09:07:37.575369: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]Iterating through all batches to summarize, be patient...: 0it [00:00, ?it/s]
+wandb: Currently logged in as: nathan-mahynski. Use `wandb login --relogin` to force relogin
+cat: /sys/module/amdgpu/initstate: No such file or directory
+ERROR:root:Driver not initialized (amdgpu not found in modules)
+wandb: wandb version 0.17.8 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.6
+wandb: Run data is saved locally in /home/nam4/Documents/projects/active/2024-pgaa-imaging/data/analysis/2dcnn-pychemauth/wandb/run-20240829_090828-622sbudt
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run pretty-dragon-3
+wandb: ⭐️ View project at https://wandb.ai/nathan-mahynski/pgaa-imaging-2d
+wandb: 🚀 View run at https://wandb.ai/nathan-mahynski/pgaa-imaging-2d/runs/622sbudt
+2024-08-29 09:08:47.620901: W tensorflow/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 13240081920 exceeds 10% of free system memory.
+2024-08-29 09:08:52.178174: W tensorflow/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 9854576640 exceeds 10% of free system memory.
+2024-08-29 09:09:36.294595: W tensorflow/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 13240081920 exceeds 10% of free system memory.
+2024-08-29 09:09:40.834664: W tensorflow/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 9854576640 exceeds 10% of free system memory.
+2024-08-29 09:10:25.342564: W tensorflow/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 13240081920 exceeds 10% of free system memory.
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.2s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.1s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.2s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.1s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.1s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.2s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.6s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.0s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.1s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.0s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.0s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.3s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.1s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.2s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.1s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.0s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.1s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.1s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.0s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.1s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.0s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.6s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.6s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.6s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.6s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.6s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.6s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.6s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 1.0s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.6s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.7s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.8s
+wandb: Adding directory to artifact (./checkpoints)... Done. 0.9s
+wandb: - 16699.761 MB of 16699.761 MB uploaded (0.011 MB deduped)wandb: \ 16703.787 MB of 16784.122 MB uploaded (0.011 MB deduped)wandb: | 16703.787 MB of 16784.122 MB uploaded (0.011 MB deduped)wandb: / 16731.420 MB of 16784.122 MB uploaded (0.011 MB deduped)wandb: - 16731.420 MB of 16784.122 MB uploaded (0.011 MB deduped)wandb: \ 16731.420 MB of 16784.122 MB uploaded (0.011 MB deduped)wandb: | 16731.420 MB of 16784.122 MB uploaded (0.011 MB deduped)wandb: / 16764.247 MB of 16784.129 MB uploaded (0.011 MB deduped)wandb: - 16769.116 MB of 16784.475 MB uploaded (0.011 MB deduped)wandb: \ 16777.671 MB of 16784.475 MB uploaded (0.011 MB deduped)wandb: | 16784.475 MB of 16784.475 MB uploaded (0.011 MB deduped)wandb: 
+wandb: Run history:
+wandb:                        batch/accuracy ▁███████████████████████████████████████
+wandb:                      batch/batch_step ▁▁▁▂▂▂▂▂▂▃▃▃▃▃▃▄▄▄▄▄▅▅▅▅▅▅▆▆▆▆▆▇▇▇▇▇▇███
+wandb:                   batch/learning_rate ▂▃▅▇█▆▄▃▁▂▃▄▄▃▃▂▁▂▂▃▃▂▂▁▁▁▂▂▂▂▁▁▁▁▁▁▁▁▁▁
+wandb:                            batch/loss █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:     batch/sparse_categorical_accuracy ▁███████████████████████████████████████
+wandb:                        epoch/accuracy ▁███████████████████████████████████████
+wandb:                           epoch/epoch ▁▁▁▁▂▂▂▂▂▃▃▃▃▃▃▄▄▄▄▄▅▅▅▅▅▅▆▆▆▆▆▇▇▇▇▇▇███
+wandb:                   epoch/learning_rate ▂▃▆▇█▆▄▃▁▂▃▄▅▃▃▁▁▂▂▃▃▂▂▁▁▁▂▂▂▂▁▁▁▁▁▁▁▁▁▁
+wandb:                            epoch/loss █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:     epoch/sparse_categorical_accuracy ▁███████████████████████████████████████
+wandb:                    epoch/val_accuracy ▁▅██████████████████████████████████████
+wandb:                        epoch/val_loss █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb: epoch/val_sparse_categorical_accuracy ▁▅██████████████████████████████████████
+wandb: 
+wandb: Run summary:
+wandb:                        batch/accuracy 1.0
+wandb:                      batch/batch_step 1799
+wandb:                   batch/learning_rate 0.01
+wandb:                            batch/loss 0.00162
+wandb:     batch/sparse_categorical_accuracy 1.0
+wandb:                        epoch/accuracy 1.0
+wandb:                           epoch/epoch 199
+wandb:                   epoch/learning_rate 0.01
+wandb:                            epoch/loss 0.00162
+wandb:     epoch/sparse_categorical_accuracy 1.0
+wandb:                    epoch/val_accuracy 0.98361
+wandb:                        epoch/val_loss 0.02376
+wandb: epoch/val_sparse_categorical_accuracy 0.98361
+wandb: 
+wandb: 🚀 View run pretty-dragon-3 at: https://wandb.ai/nathan-mahynski/pgaa-imaging-2d/runs/622sbudt
+wandb: ⭐️ View project at: https://wandb.ai/nathan-mahynski/pgaa-imaging-2d
+wandb: Synced 6 W&B file(s), 0 media file(s), 602 artifact file(s) and 2 other file(s)
+wandb: Find logs at: ./wandb/run-20240829_090828-622sbudt/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
