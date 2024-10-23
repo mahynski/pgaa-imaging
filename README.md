@@ -1,8 +1,8 @@
-Project Name
+pgaa-imaging
 ---
-This repository accompanies the manuscript: [My Manuscript Title]().
+This repository accompanies the manuscript: ["Imaging PGAA Spectra for Material Classification with Convolutional Neural Networks"]().
 
-ABSTRACT
+> We trained deep convolutional neural networks (CNN) to classify materials based on their prompt gamma ray activation analysis (PGAA) spectrum.  We focused on two dimensional (2D) models to leverage abundant open-source models pre-trained on other computer vision tasks for transfer learning.  This allows models to be built with a relatively small number of trainable parameters.  Moreover, CNNs can be explained naturally using class activation maps and can be equipped with out-of-distribution tests to identify materials which were not present in its training set. Together, these features suggest such models may be excellent candidates for automated material identification in real-world scenarios.
 
 Citation
 ---
@@ -10,7 +10,12 @@ Please cite the associated manuscript as follows:
 
 ~~~code
 @article{
-    INSERT FORMATTED BITEX
+    title={Imaging PGAA Spectra for Material Classification with Convolutional Neural Networks},
+    authors={Mahynski, Nathan A. and Sheen, David A. and Paul, Rick L. and Chen-Mayer, H. Heather and Shen, Vincent K.},
+    journal={},
+    volume={},
+    pages={},
+    year={}
 }
 ~~~
 
