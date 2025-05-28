@@ -25,3 +25,22 @@ Set up the conda environment for this project.
 ~~~code
 $ conda env create -f conda-env.yml
 ~~~
+
+Hugging Face Models
+---
+
+Models and data are also available on [Hugging Face](https://huggingface.co/collections/mahynski/pgaa-spectra-classification-66f7fcd65ea4244ba1b9559b).
+
+Data:
+* [pgaa-sample-gadf-images](https://huggingface.co/datasets/mahynski/pgaa-sample-gadf-images)
+
+Models:
+* [pgaa-osr-inceptionv3-softmax](https://huggingface.co/mahynski/pgaa-osr-inceptionv3-softmax)
+* [pgaa-osr-inceptionv3-energy](https://huggingface.co/mahynski/pgaa-osr-inceptionv3-energy)
+* [pgaa-osr-inceptionv3-dime](https://huggingface.co/mahynski/pgaa-osr-inceptionv3-dime)
+* [pgaa-osr-mobilenetv3small-softmax](https://huggingface.co/mahynski/pgaa-osr-mobilenetv3small-softmax)
+* [pgaa-osr-mobilenetv3small-energy](https://huggingface.co/mahynski/pgaa-osr-mobilenetv3small-energy)
+* [pgaa-osr-mobilenetv3small-dime](https://huggingface.co/mahynski/pgaa-osr-mobilenetv3small-dime)
+* [pgaa-osr-nasnetmobile-softmax](https://huggingface.co/mahynski/pgaa-osr-nasnetmobile-softmax)
+* [pgaa-osr-nasnetmobile-energy](https://huggingface.co/mahynski/pgaa-osr-nasnetmobile-energy)
+* [pgaa-osr-nasnetmobile-dime](https://huggingface.co/mahynski/pgaa-osr-nasnetmobile-dime)
